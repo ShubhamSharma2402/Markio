@@ -5,7 +5,7 @@
 **Description**
 Markio is a group project built using **HTML, CSS, and JavaScript.**
 
-It is an automated student attendance monitoring and analytics system for colleges, enabling secure, location-based attendance marking with cloud-based tracking and insights for students, faculty, and administrators.
+It is an **automated student attendance monitoring and analytics system for colleges**, enabling secure, location-based attendance marking with cloud-based tracking and insights for students, faculty, and administrators.
 
 Features
 
